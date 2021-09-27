@@ -1,4 +1,12 @@
 {
+	"name": "challenge-react-native-fruit-store",
+	"version": "0.1.0",
+	"description": "An exemple of a fruit shop in a ReactNative",
+	"private": false,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/oouo-diogo-perdigao/challenge-react-native-fruit-store.git"
+	},
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -17,6 +25,5 @@
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
-  },
-  "private": true
+  }
 }
